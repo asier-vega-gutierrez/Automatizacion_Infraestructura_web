@@ -1,10 +1,9 @@
 
 
-## Analisis y optimizacion de maquina de impresion 3D con RapidMiner
+## Automatizacion de despliegue de infraestrutuca para aplicaciones web
 <ul>
-    <li>Fechas: Marzo 2023 - Junio 2023</li>
-    <li>Descripción: Predecir la calidad de la pieza producida, para conocer de antemano si la máquina está realizando bien el proceso de impresión, teniendo en cuenta el histórico de procesos realizados con el mismo diseño y el proceso que se está realizando. Por otro lado, para los casos en los que la calidad prediga una pieza defectuosa, describir el motivo por el que ocurre, para así poder optimizar la máquina y adaptarla a ese diseño (mejora continua).
+    <li>Fechas: Febrero 2022 - Abril 2022</li>
+    <li>Descripción: Automatizar unsando Terrafor el despliegue de una infraestructura para aplicaciones web en la nuebe de azure, se emplea Nginx como servidor web y se simula el acceso a un base de datos con un script de python.
+![alt text](https://github.com/asier-vega-gutierrez/Automatizacion_Infraestructura_web/blob/main/Infraestructura.png?raw=true)
 </li>
-    <li>Rrferencias: Szydlo T., Sendorek J., Windak M., Brzoza-Woch R. (2021) Dataset for Anomalies Detection in 3D Printing. In: Paszynski M., Kranzlmüller D., Krzhizhanovskaya V.V., Dongarra J.J., Sloot P.M. (eds) Computational Science – ICCS 2021. ICCS 2021. Lecture Notes in Computer Science, vol 12745. Springer, Cham. https://doi.org/10.1007/978-3-030-77970-2_50
-    </li>
 </ul>
