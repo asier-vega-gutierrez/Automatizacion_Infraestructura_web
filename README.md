@@ -6,4 +6,4 @@
     <li>Descripción: Automatizar unsando Terrafor el despliegue de una infraestructura para aplicaciones web en la nuebe de azure, se emplea Nginx como servidor web y se simula el acceso a un base de datos con un script de python.
 </li>
 </ul>
-![alt text](https://github.com/asier-vega-gutierrez/Automatizacion_Infraestructura_web/blob/main/Infraestructura.png?raw=true)
+
